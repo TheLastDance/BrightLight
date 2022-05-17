@@ -868,6 +868,11 @@ a {
 }
 
 @media (max-width:730px) {
+    
+    #cnt-1-2 p {
+        margin-top: 10px;
+    }
+    
     #cnt-3 {
         display: grid;
         grid-template-columns: 1fr 250px;
