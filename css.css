@@ -153,7 +153,7 @@ body {
     font-family: 'Poppins-Bold';
 }
 
-#cnt-1-2 p {
+#cnt-1-2 h1 {
     font-size: 100px;
     font-family: 'Poppins-Bold';
     -webkit-text-fill-color: transparent;
@@ -867,12 +867,7 @@ a {
 
 }
 
-@media (max-width:730px) {
-    
-    #cnt-1-2 p {
-        margin-top: 10px;
-    }
-    
+@media (max-width:730px) {  
     #cnt-3 {
         display: grid;
         grid-template-columns: 1fr 250px;
