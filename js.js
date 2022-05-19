@@ -114,8 +114,6 @@ function sliderRightAdaptive() {
 let popup = document.querySelector('#popup');
 let burger = document.querySelector('#burger_field');
 let body = document.body;
-let html = document.html;
-
 
 burger.addEventListener('click', popupFunc)
 
@@ -124,7 +122,6 @@ function popupFunc(e) {
     popup.classList.toggle('open');
     burger.classList.toggle('active');
     body.classList.toggle("noScroll");
-    html.classList.toggle("noScroll");
 }
 
 sliderLeft()
