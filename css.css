@@ -1127,7 +1127,6 @@ a {
         padding-top: 1px;
     }
 
-    html.noScroll,
     body.noScroll {
         height: 100%;
         overflow: hidden;
