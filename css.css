@@ -1130,6 +1130,7 @@ a {
     html.noScroll,
     body.noScroll {
         overflow: hidden;
+        position: relative;
     }
 }
 
