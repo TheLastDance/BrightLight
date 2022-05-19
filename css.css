@@ -1126,7 +1126,8 @@ a {
         color: #fff;
         padding-top: 1px;
     }
-
+    
+    html.noscroll,
     body.noScroll {
         overflow: hidden;
     }
