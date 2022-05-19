@@ -1129,6 +1129,7 @@ a {
 
     html.noScroll,
     body.noScroll {
+        height: 100%;
         overflow: hidden;
         position: relative;
     }
